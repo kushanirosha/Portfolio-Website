@@ -4,7 +4,7 @@ This is a personal portfolio website built with React and Tailwind CSS. It showc
 
 ## Demo
 
-View the live demo [here](http://your-live-demo-link.com).
+View the live demo [here](https://kushandissanayake.netlify.app/).
 
 ## Features
 
